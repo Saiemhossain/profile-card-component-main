@@ -1,7 +1,7 @@
 ## **Project Name: Profile  Card Component**
 
 **About  Project:Profile  Card Component**
-This website is about # Victor Crest
+This website is about Victor Crest
 
 **View Website:https://saiemhossain.github.io/profile-card-component-main/
 
